@@ -10,13 +10,14 @@ import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasej
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAcKXxJwjhm9s7hkcb4tStxz8j_18q1Ua4",
-  authDomain: "loginweb-d5158.firebaseapp.com",
-  databaseURL: "https://loginweb-d5158-default-rtdb.firebaseio.com",
-  projectId: "loginweb-d5158",
-  storageBucket: "loginweb-d5158.appspot.com",
-  messagingSenderId: "977139409443",
-  appId: "1:977139409443:web:c6dbce940932fec4c3c796"
+  apiKey: "AIzaSyCXiWWsRZWyWnEy5BdIU4-XnslDaMWmmw4",
+  authDomain: "fire-base-4df61.firebaseapp.com",
+  projectId: "fire-base-4df61",
+  storageBucket: "fire-base-4df61.appspot.com",
+  messagingSenderId: "63389606094",
+  appId: "1:63389606094:web:c4224695057a1c9b12b09f",
+  measurementId: "G-NCKCQ03QZ2"
+
 };
 
 // Initialize Firebase
